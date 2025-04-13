@@ -2,6 +2,12 @@
 
 A responsive and feature-rich Todo List application built with HTML, CSS, and JavaScript.
 
+## [View Live Demo](https://sainath-666.github.io/Todo_List_1/)
+
+## Preview
+
+![Todo List App Preview](Preview.png)
+
 ## Features
 
 - Add, edit, and delete tasks
@@ -10,13 +16,6 @@ A responsive and feature-rich Todo List application built with HTML, CSS, and Ja
 - Local storage to persist tasks between sessions
 - Clean and modern user interface
 
-## Live Link
-
-[View Live Demo](https://github.com/Sainath666/Todo_List_1)
-
-## Preview
-
-![Todo List App Preview](Preview.png)
 
 ## Technologies Used
 
